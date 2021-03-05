@@ -1,4 +1,8 @@
 # Small-Banking-System
+
+ ![code quality score](https://www.code-inspector.com/project/19832/score/svg) &nbsp;&nbsp;&nbsp;
+ ![code quality grade](https://www.code-inspector.com/project/19832/status/svg)
+ 
  This small banking system includes six functions : 
  1.Add Acccount
  2.Read Account
